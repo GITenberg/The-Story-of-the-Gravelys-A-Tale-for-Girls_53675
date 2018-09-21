@@ -1,0 +1,43 @@
+_repo: The-Story-of-the-Gravelys-A-Tale-for-Girls_53675
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Eckerson, M.
+    alias: Eckerson, Margaret
+    gutenberg_agent_id: '49346'
+    url: http://www.gutenberg.org/2009/agents/49346
+  - agent_name: Burgess, H.
+    gutenberg_agent_id: '49347'
+    url: http://www.gutenberg.org/2009/agents/49347
+  - agent_name: Fosbery, E.
+    alias: Fosbery, Ernest George
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '40101'
+    url: http://www.gutenberg.org/2009/agents/40101
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2016-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Story of the Gravelys: A Tale for Girls'
+url: http://www.gutenberg.org/ebooks/53675
