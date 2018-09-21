@@ -1,5 +1,5 @@
 _repo: The-Story-of-the-Gravelys-A-Tale-for-Girls_53675
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Eckerson, M.
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1960
     gutenberg_agent_id: '40101'
     url: http://www.gutenberg.org/2009/agents/40101
+covers:
+- cover_type: archival
+  image_path: 53675-h/images/cover.jpg
 creator:
   author:
     agent_name: Saunders, Marshall
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1041
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53675#The-Story-of-the-Gravelys-A-Tale-for-Girls
 gutenberg_issued: '2016-12-06'
 gutenberg_type: Text
 identifiers:
